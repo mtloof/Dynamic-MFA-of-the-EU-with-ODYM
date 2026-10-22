@@ -1,6 +1,6 @@
 # Dynamic MFA and Circularity Analysis of the EU using ODYM in python
 
-Dynamic MFA across 4 broad material categories and 3 specific materials across the EU.
+Dynamic MFA across 4 broad material categories and 3 specific materials across the EU for both historic and projected circularity.
 
 Dynamic MFA was conducted using ODYM package.
 
